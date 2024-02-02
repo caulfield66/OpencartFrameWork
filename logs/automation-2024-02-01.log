@@ -1,0 +1,47 @@
+15:38:23.468 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:38:23.472 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:10:46.873 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+14:10:46.873 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+14:10:46.880 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+14:10:46.880 [TestNG-tests-2] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+14:10:48.015 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked myAccount link
+14:10:48.029 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+14:10:58.052 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+14:12:55.654 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+14:12:55.658 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+14:13:05.685 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+14:15:41.050 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+14:15:41.054 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+14:15:51.133 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+14:16:57.157 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+14:16:57.160 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+14:17:07.216 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+14:19:29.499 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+14:19:29.501 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+14:19:39.534 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+15:01:12.743 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+15:01:12.745 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+15:01:13.403 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked myAccount link
+15:01:13.695 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Register link
+15:01:13.695 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering the customer details
+15:01:16.718 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+17:45:15.101 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+17:45:15.106 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+17:45:15.118 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+15:48:16.476 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+15:48:16.478 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+15:48:16.537 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked myAccount link
+15:48:16.803 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Register link
+15:48:16.803 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering the customer details
+15:48:29.864 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+15:51:13.100 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+15:51:13.103 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+15:51:23.163 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+15:53:45.996 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+15:53:45.998 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+15:53:56.070 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+17:20:58.797 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** Starting TC_001_AccountRegistrationTest ****
+17:20:58.798 [TestNG-tests-1] DEBUG testCases.TC_001_AccountRegistrationTest - Application logs.....
+17:20:58.838 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked myAccount link
+17:20:59.121 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked Register link
+17:20:59.121 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Entering the customer details

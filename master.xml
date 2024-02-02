@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"></listener>
+    </listeners>
+    <test name="Test">
+        <parameter name="os" value="Mac"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.TC_001_AccountRegistrationTest"></class>
+            <class name="testCases.TC_002_LoginTest"></class>
+
+        </classes>
+    </test>
+<!--    <listeners>-->
+<!--        <listener class-name="utilities.ExtentReportManager"></listener>-->
+<!--    </listeners>-->
+<!--    <test name="Test2">-->
+<!--        <parameter name="os" value="Windows"></parameter>-->
+<!--        <parameter name="browser" value="safari"></parameter>-->
+<!--        <classes>-->
+<!--            <class name="testCases.TC_001_AccountRegistrationTest"></class>-->
+<!--            <class name="testCases.TC_002_LoginTest"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
